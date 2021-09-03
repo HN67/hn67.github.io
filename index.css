@@ -1,0 +1,24 @@
+/* Use nicer box-sizing */
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.box {
+    display: inline-block;
+    border: solid black;
+}
+
+.centered {
+    text-align: center;
+}
+
+.row {
+    margin: 5px;
+}
+
+.label {
+    border-bottom: solid gray;
+}
