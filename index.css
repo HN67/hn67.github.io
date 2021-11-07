@@ -22,3 +22,8 @@ html {
 .label {
     border-bottom: solid gray;
 }
+
+.pane {
+    display: flex;
+    justify-content: center;
+}
