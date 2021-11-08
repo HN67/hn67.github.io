@@ -1,6 +1,8 @@
 /* Use nicer box-sizing */
 html {
     box-sizing: border-box;
+    font-family: sans-serif;
+    background-color: #FFC86B;
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -9,6 +11,7 @@ html {
 .box {
     display: inline-block;
     border: solid black;
+    background-color: lightgray;
 }
 
 .centered {
