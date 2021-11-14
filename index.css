@@ -2,7 +2,7 @@
 html {
     box-sizing: border-box;
     font-family: sans-serif;
-    background-color: #FFC86B;
+    background-color: #dfdfdf;
 }
 *, *:before, *:after {
     box-sizing: inherit;
@@ -11,7 +11,7 @@ html {
 .box {
     display: inline-block;
     border: solid black;
-    background-color: lightgray;
+    background-color: #cfcfcf;
 }
 
 .centered {
